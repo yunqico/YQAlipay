@@ -1,0 +1,11 @@
+{
+    "name": "yunqi/alipay",
+    "description": "alipay sdk",
+    "authors": [
+        {
+            "name": "Azan",
+            "email": "icbc8@qq.com"
+        }
+    ],
+    "require": {}
+}
